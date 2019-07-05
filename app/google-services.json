@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "549479501505",
+    "firebase_url": "https://love-birds-4ab87.firebaseio.com",
+    "project_id": "love-birds-4ab87",
+    "storage_bucket": "love-birds-4ab87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549479501505:android:73599a6d0cb5c6e4",
+        "android_client_info": {
+          "package_name": "com.example.lovebirds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549479501505-8b4ru7auc60m5q4fmi0irgtknd6qqb9g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lovebirds",
+            "certificate_hash": "fc3a224f9bd5e6f585d4a12e6e46238eab1d4ed3"
+          }
+        },
+        {
+          "client_id": "549479501505-runile9p3gomnpsrgsum0hieg3v3h4nm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKwtI0Q5qSQHz1y7w8Nsl4cHnGwGmr2QQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549479501505-runile9p3gomnpsrgsum0hieg3v3h4nm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

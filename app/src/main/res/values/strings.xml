@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Love Birds</string>
+    <string name="standard_login">Login</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_age">Age</string>
+    <string name="hint_gender">I am a</string>
+    <string name="hint_man">Man</string>
+    <string name="hint_woman">Woman</string>
+    <string name="hint_preffered_gender">Looking for a</string>
+    <string name="no_available_users">No Available Users</string>
+</resources>
